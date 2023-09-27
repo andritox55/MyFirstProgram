@@ -24,7 +24,7 @@ namespace MyFirstProgram
 
             string name = Console.ReadLine();
 
-            Console.WriteLine($"Hej {name}!");
+            Console.WriteLine($"Hej dezz {name}!");
 
 
             // print every number from 0 to a chosen number
